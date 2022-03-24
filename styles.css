@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to left, rgb(240, 215, 186), rgb(242, 245, 208));
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+
+section{
+    display: flex;
+}
+
+article{
+    flex-direction: column;
+}
+
+image{
+    position: fixed;
+}
